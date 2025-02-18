@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Lavish Airlines Management System is a Python-based flight management and passenger booking system. It allows admins to add and view flight details, while passengers can book, view, and cancel flight reservations.
+The Airplane Management System is a Python-based flight management and passenger booking system. It allows admins to add and view flight details, while passengers can book, view, and cancel flight reservations.
 
 ## Features
 
